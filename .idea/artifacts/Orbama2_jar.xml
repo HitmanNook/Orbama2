@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Orbama2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Orbama2_jar</output-path>
+    <root id="archive" name="Orbama2.jar">
+      <element id="module-output" name="Orbama2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/core.jar" path-in-jar="/" />
+      <element id="library" level="project" name="core" />
+    </root>
+  </artifact>
+</component>
